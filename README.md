@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 :)
 # 💫 About Me:
-🔭I'm currently working on React.js.<br>🌱I'm  looking to help with web development projects.<br>🤔My current learning status is intermediate, and I'm always eager to improve my skills.<br>⚡I love diving into the logic behind coding challenges.
+🔭I'm currently working on React and Node.<br>🌱I'm looking to help with web development projects and complex problem solving approach .<br>🤔My current learning status is intermediate, and I'm always eager to improve my skills.<br>⚡I love diving into the logic behind code to solve and simplify the complex problem.
 
 
 ## 🌐 Socials:
