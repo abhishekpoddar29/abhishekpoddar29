@@ -1,5 +1,5 @@
 # Hi there 👋 :)
-# 💫 About Me:
+#  About Me:
 Hi, I am Abhishek Poddar . I am a 2024 graduate in Information Science and Engineering (CSE) from Ramaiah University. 
 <br>>I am currently working with React and Node.js, with a strong foundation in web development. I also have intermediate skills in Java and continuously seek opportunities to enhance my expertise.<br>>I am eager to contribute to web development projects, particularly those that involve complex problem-solving.
 ## 🌐 Socials:
