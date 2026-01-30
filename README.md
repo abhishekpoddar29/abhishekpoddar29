@@ -1,7 +1,7 @@
 # Hi there 👋 :)
 #  About Me:
 Hi, I am Abhishek Poddar . I am a 2024 graduate in Information Science and Engineering (CSE) from Ramaiah University. 
-<br>>I am currently working with React and Node.js, with a strong foundation in web development. I also have intermediate skills in Java and continuously seek opportunities to enhance my expertise.<br>>I am eager to contribute to web development projects, particularly those that involve complex problem-solving.
+<br>>I am currently working with React and Node.js, with a strong foundation in web development. I also have intermediate skills in Java and continuously seek opportunities to enhance my expertise.<br>>I have experience working with clients such as Ashok Leyland, UPL Agro, and Hindustan Coca-Cola Beverages (HCCB), handling real-time business data transfer to third-party servers and data retrieval.<br>>I am eager to contribute to web development projects, particularly those that involve complex problem-solving.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-poddar5829) 
 
