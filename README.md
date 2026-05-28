@@ -132,21 +132,3 @@ https://huggingface.co/spaces/abhiramos29/personal-career-agent
 * Analytical Thinking
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=abhishekpoddar29\&theme=tokyonight\&hide_border=true\&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpoddar29\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-
-### 👀 Profile Visitors
-
-![](https://visitcount.itsvg.in/api?id=abhishekpoddar29\&icon=5\&color=6)
-
----
-
-### 💡 Motto
-
-> Building scalable software, intelligent AI agents, and impactful products one project at a time.
