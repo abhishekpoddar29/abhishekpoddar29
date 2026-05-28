@@ -1,19 +1,152 @@
-# 💫 About Me:
-Hi, I am Abhishek Poddar, a 2024 graduate in Information Science and Engineering from Ramaiah University.<br>>I am working on Python, FastAPI, DSA, React, and Node.js. I also have intermediate knowledge of Java and continue to strengthen my problem-solving and development skills.<br>>I have worked with clients such as Ashok Leyland, UPL Agro, and Hindustan Coca-Cola Beverages (HCCB), where I handled real-time business data transfer and third-party server integrations.<br>>My objective is continuous self-improvement — to deepen my technical expertise, become better at solving complex problems, and contribute meaningfully.<br>
+# 👋 Hi, I'm Abhishek Poddar
 
+### Software Developer | AI Engineer | Agentic AI Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-poddar5829) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekpoddar5829@gmail.com) 
+> I am a Software Developer with 1.5+ years of professional experience building scalable web applications, enterprise solutions, and AI-powered systems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekpoddar29&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpoddar29&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+> My experience spans across Full-Stack Development, Backend Engineering, Enterprise Data Management, and emerging AI technologies including Agentic AI and Generative AI.
+
+> I have worked on real-world enterprise projects for organizations such as **Ashok Leyland**, **UPL Agro**, and **Hindustan Coca-Cola Beverages (HCCB)**, where I contributed to large-scale data migration, third-party server integrations, and business-critical application development.
+
+> Recently, I have been focused on building and deploying AI-powered applications using modern Agentic AI frameworks, FastAPI, Hugging Face Spaces, and Large Language Models (LLMs).
+
+### 🚀 Current Focus
+
+* Agentic AI Applications
+* Generative AI Systems
+* Multi-Agent Workflows
+* FastAPI & Backend Development
+* Full Stack Web Applications
+* Scalable AI Products
+* Data Structures & Algorithms
+
+### 🌟 Featured AI Projects
+
+#### 🎵 Melody AI
+
+Agentic AI-powered music recommendation platform that recommends personalized songs based on mood, language, energy level, and listening context.
+
+**Tech Stack:** Gemini, OpenAI Agents SDK, Gradio, Spotify API, YouTube API, Hugging Face
+
+🔗 Hosted Application:
+https://huggingface.co/spaces/abhiramos29/melody-ai-music-agent
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekpoddar29&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 🤖 Personal Data Agent
 
+AI-powered assistant capable of answering user-specific queries using Retrieval-Augmented Generation (RAG), document understanding, and contextual memory.
 
+**Tech Stack:** FastAPI, Python, RAG, Vector Databases, LLMs
+
+🔗 Hosted Application:
+https://huggingface.co/spaces/abhiramos29/personal-career-agent
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhishek-poddar5829)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:abhishekpoddar5829@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Core Computer Science
+
+* Data Structures & Algorithms (Python)
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems Fundamentals
+
+---
+
+## Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge\&logo=gradio\&logoColor=white)
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+
+### Databases
+
+* MongoDB
+* SAP HANA DB
+
+### Enterprise Technologies
+
+* SAP ILM
+* Data Migration
+* Third-Party Integrations
+* Enterprise Data Management
+
+---
+
+# 🤖 AI & Emerging Technologies
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+### Experience With
+
+* Agentic AI Systems
+* OpenAI Agents SDK
+* CrewAI
+* Gemini API
+* LLM Applications
+* RAG Systems
+* AI Automation
+* Prompt Engineering
+* Hugging Face Deployment
+* AI Product Development
+
+---
+
+# 🧠 Soft Skills
+
+* Problem Solving
+* Communication
+* Adaptability
+* Team Collaboration
+* Client Interaction
+* Analytical Thinking
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abhishekpoddar29\&theme=tokyonight\&hide_border=true\&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpoddar29\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+### 👀 Profile Visitors
+
+![](https://visitcount.itsvg.in/api?id=abhishekpoddar29\&icon=5\&color=6)
+
+---
+
+### 💡 Motto
+
+> Building scalable software, intelligent AI agents, and impactful products one project at a time.
