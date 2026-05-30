@@ -23,19 +23,23 @@
 ```python
 class Abhishek:
     role       = "Software Developer & AI Engineer"
-    experience = "1.5+ years"
+    experience = "2+ years"
     location   = "India 🇮🇳"
+    education   = {
+        "degree"      : "B.Tech",
+        "university"  : "Ramaiah Institute of Technology, Bangalore",
+        "graduated"   : 2024,
+        "focus"       : ["Computer Science", "Software Engineering"]
+    }
 
     skills     = ["Full-Stack Dev", "Backend Engineering",
-                  "Agentic AI", "Generative AI", "Enterprise Systems"]
-
-    enterprise = ["Ashok Leyland", "UPL Agro", "Hindustan Coca-Cola Beverages (HCCB)"]
+                  "Agentic AI", "Generative AI"]
 
     currently  = ["Building Agentic AI applications",
                   "Exploring Multi-Agent Workflows",
                   "Deploying AI products on Hugging Face"]
 
-    fun_fact   = "I automate things so I can build more things 🤖"
+    fun_fact   = "Turned 'I hate doing this manually' into a career 😅🤖"
 ```
 
 ---
@@ -112,21 +116,9 @@ class Abhishek:
 <img src="https://github-readme-stats.vercel.app/api?username=abhiramos29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramos29&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramos29&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpoddar29&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
----
-
-## 🏢 Enterprise Experience
-
-> Real-world projects that shipped to production, not just weekend hacks.
-
-| Company | Domain | Contribution |
-|---|---|---|
-| 🚛 **Ashok Leyland** | Automotive | Large-scale data migration & SAP ILM |
-| 🌾 **UPL Agro** | Agriculture | Enterprise data management & integrations |
-| 🥤 **HCCB** | FMCG | Third-party server integrations & app development |
 
 ---
 
