@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Agentic+Systems+Builder+%F0%9F%A4%96;Multi-Agent+Workflow+Engineer+%F0%9F%94%97;Always+building+something+cool+%E2%9A%A1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+%26+Agentic+Systems+Builder+%F0%9F%A4%96;Multi-Agent+Workflow+Engineer+%F0%9F%94%97;Always+building+something+cool+%E2%9A%A1" alt="Typing SVG"/>
 
 </div>
 
@@ -27,7 +27,7 @@ class Abhishek:
     location   = "India 🇮🇳"
     education   = {
         "degree"      : "B.Tech",
-        "university"  : "Ramaiah Institute of Technology, Bangalore",
+        "university"  : "Ramaiah University, Bangalore",
         "graduated"   : 2024,
         "focus"       : ["Computer Science", "Software Engineering"]
     }
