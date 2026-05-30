@@ -72,17 +72,11 @@ https://huggingface.co/spaces/abhiramos29/personal-career-agent
 ## Frameworks & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-
 ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge\&logo=gradio\&logoColor=white)
-
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
 
 ### Databases
@@ -102,9 +96,7 @@ https://huggingface.co/spaces/abhiramos29/personal-career-agent
 # 🤖 AI & Emerging Technologies
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ### Experience With
